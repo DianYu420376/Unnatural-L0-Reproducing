@@ -9,4 +9,3 @@ Note: Currently the examples in 'test/toy example' folder is just generated blur
 Some problems that need to be solved:
 1. Cannot handle large blur right now.
 2. Still cannot find a good way to handle the boundary for real images.
-3. TOO slow, needs acceleration.
